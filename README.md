@@ -2,7 +2,6 @@
 	FDF
 </h1>
 
-<p align="center">
 
  <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/kbly538/FdF?color=lightblue" />
