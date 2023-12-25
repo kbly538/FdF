@@ -7,7 +7,7 @@
  <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/kbly538/FdF?color=lightblue" />
 	<img alt="Number of lines of code" src="https://img.shields.io/badge/total_lines-11681-green" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ailopez-o/42Barcelona-FdF?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kbly538/FdF?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kbly538/FdF?color=green" />
 </p>
 
