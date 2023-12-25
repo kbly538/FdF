@@ -28,7 +28,7 @@ Designed to deepen the understanding of computer graphics leveraging MiniLibX gr
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/FdF.git
+   git clone https://github.com/kbly538/FdF.git
    cd FdF
 2. **Build the Project**
    ```bash
